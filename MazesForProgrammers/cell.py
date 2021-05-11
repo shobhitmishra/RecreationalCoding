@@ -1,7 +1,7 @@
 from typing import Any, cast, Dict, Hashable, List, Optional
 import warnings
 
-# Define Links and CellList type
+# Define Links and CellList type 
 Links = Dict["Cell", bool]
 CellList = List["Cell"]
 
